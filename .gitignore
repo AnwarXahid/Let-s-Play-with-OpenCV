@@ -1,0 +1,5 @@
+#ignore sytem file
+.idea
+
+#ignore virtual environment
+venv
